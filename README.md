@@ -70,7 +70,7 @@ For painting novel drawings, place an image in `/waypoints/images`. The waypoint
 ### Future Work
 - implement a dynamic system to check whether the paint brush needs more paint
 - optimize the number of waypoints without sacrificing image quality 
-- increase the workspace of the robot by experimenting with different canvas positions
+- increase the task space of the robot by experimenting with different canvas positions
 - incorporate a dynamic dip down distance to the canvas
 
 
